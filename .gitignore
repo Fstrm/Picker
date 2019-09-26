@@ -1,0 +1,9 @@
+.vs/
+[Bb]in/
+[Dd]ebug/
+[Oo]bj/
+*.nupkg/
+packages/
+*.csproj.user
+WebApi/Models/
+WebApi/Areas/
