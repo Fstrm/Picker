@@ -7,3 +7,4 @@ packages/
 *.csproj.user
 WebApi/Models/
 WebApi/Areas/
+*.js
